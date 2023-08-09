@@ -1,6 +1,6 @@
 .pai { 
      display: flex; 
-      background-color: rgb(76, 13, 134); 
+      background-color: blue;
        flex-direction: column; 
           } 
             
@@ -12,7 +12,7 @@
                                       } 
                                         
                                            body{ 
-                                                color: rgb(228, 112, 218); 
+                                                color: blue;
                                                      background-color:black ; 
                                                       } 
                                                         h1{ 
@@ -22,10 +22,10 @@
                                                                    
                                                                     a{ 
                                                                          text-decoration: none; 
-                                                                              color: pink; 
+                                                                              color: blue;
                                                                                } 
                                                                                  
                                                                                   div{ 
-                                                                                       color: blueviolet; 
+                                                                                       color: blue;
                                                                                         }
 }
